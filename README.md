@@ -7,9 +7,9 @@ Welcome to my GitHub profile! I'm a passionate Software Developer who loves to c
 - 🌐 Learning About Artifical Intelligence & Machine Learning.
 
 ## Skills  
-- 💻 Programming Languages: [C, Java, SQL, Python, Html, Css, Js]
-- 🛠️ Tools & Technologies: [ Node.js, React.js, Bootstrap, MongoDB]
-- 📖 Core Concepts: [DSA, OOPS, OS, DBMS, AI&ML]
+- 💻 Programming Languages: [Core Java, Python, JavaScript]
+- 🛠️ Tools & Technologies: [ Node.js, React.js, Tailwind CSS, MongoDB, Git, GitHub]
+- 📖 Core Concepts: [DSA, OOPS, OS, DBMS, AI&ML, CN]
 
 ## Let's Connect
 You can find me on:
