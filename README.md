@@ -1,9 +1,9 @@
 ## Hi there 👋
-Welcome to my GitHub profile! I'm a passionate Software Developer who loves to create & deploy codes. Below, you'll find a showcase of my work and interests.
+Welcome to my GitHub profile! I'm a passionate Web Developer who loves to create & deploy web applications. Below, you'll find a showcase of my work and interests.
 
 ## About Me
 - 🌍 Location: Greater Noida, India.
-- 🌱 Currently Persuing a Bachelor's In Computer Science with specialization in Artificial Intelligence & Machine Learning ( 3rd Year ).
+- 🌱 Currently Persuing a Bachelor's In Computer Science with specialization in Artificial Intelligence & Machine Learning ( Final Year ).
 - 🌐 Learning About Artifical Intelligence & Machine Learning.
 
 ## Skills  
