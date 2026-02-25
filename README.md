@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate Web Developer who loves to create
 
 ## Skills  
 - 💻 Programming Languages: [Core Java, Python, JavaScript]
-- 🛠️ Tools & Technologies: [ Node.js, React.js, Tailwind CSS, MongoDB, Git, GitHub]
+- 🛠️ Tools & Technologies: [ Node.js, React.js, Tailwind CSS, MongoDB, Git, GitHub, AWS, Docker]
 - 📖 Core Concepts: [DSA, OOPS, OS, DBMS, AI&ML, CN]
 
 ## Let's Connect
@@ -16,12 +16,6 @@ You can find me on:
 
 - GitHub: https://github.com/Saumay-Gupta
 - LinkedIn: https://www.linkedin.com/in/saumay-gupta-23a686259/
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saumay-Gupta&theme=dark&show_icons=true)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saumay-Gupta&theme=dark)
 <!--
 **Saumay-Gupta/Saumay-Gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
